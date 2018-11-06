@@ -1,5 +1,5 @@
 module.exports = {
-  colorCrimson: "rgb(116, 40, 49)",
+  colorCrimson: "rgb(234, 81, 100)",
   colorCrimsonDark: "rgb(187, 64, 80)",
   colorCrimsonDarker: "rgb(116, 40, 49)",
   colorCrimsonLight: "rgb(244, 168, 177)",
