@@ -1,0 +1,31 @@
+{
+  "name": "@nimbus/nimbus-tokens",
+  "version": "0.0.1",
+  "description": "this a design token for mobile and app bukalapak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "design-token",
+    "yaml"
+  ],
+  "author": "Bukalapak Design",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-cache": "^1.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-theo": "^2.0.0",
+    "immutable": "^3.8.2",
+    "immutable-ext": "^1.1.5",
+    "lodash": "^4.17.11",
+    "no-case": "^2.3.2",
+    "run-sequence": "^2.2.1",
+    "theo": "^8.0.0-beta.2",
+    "tinycolor2": "^1.4.1",
+    "xml": "^1.0.1"
+  }
+}

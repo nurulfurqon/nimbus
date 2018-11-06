@@ -1,0 +1,17 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "comand": {
+    "publish": {
+      "ignore": [
+        "*.md",
+        "*.json",
+        "*.txt",
+        "package.json"
+      ]
+    }
+  },
+  "version": "independent",
+  "npmClient": "yarn"
+}

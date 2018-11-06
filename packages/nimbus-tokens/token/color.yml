@@ -1,0 +1,200 @@
+# This a list color token for used
+# Version: 0.0.1
+# Last update: 25-10-2018
+aliases:
+  # Crimson Color /
+  color-crimson: '#742831'
+  color-crimson-dark: '#bb4050'
+  color-crimson-darker: '#742831'
+  color-crimson-light: '#f4a8b1'
+  color-crimson-lighter: '#fce9eb'
+  # Obsidian Color /
+  color-obsidian: '#80868f'
+  color-obsidian-dark: '#52565f'
+  color-obsidian-darker: '#25282f'
+  color-obsidian-light: '#adb4bc'
+  color-obsidian-lighter: '#c9cfd6'
+  # Oxygen Color /
+  color-oxygen: '#f1f2f5'
+  color-oxygen-dark: '#e8eaef'
+  color-oxygen-darker: '#dfe3e9'
+  color-oxygen-light: '#f9fafb'
+  color-oxygen-lighter: '#ffffff'
+  # Chromium Color /
+  color-chromium: '#4589dc'
+  color-chromium-dark: '#376db0'
+  color-chromium-darker: '#22446d'
+  color-chromium-light: '#a2c4ed'
+  color-chromium-lighter: '#e7f0fb'
+  # Uranium Color /
+  color-uranium: '#46c490'
+  color-uranium-dark: '#389c73'
+  color-uranium-darker: '#226147'
+  color-uranium-light: '#a2e1c7'
+  color-uranium-lighter: '#e7f7f1'
+  # Sodium Color /
+  color-sodium: '#ffc26a'
+  color-sodium-dark: '#cc9b54'
+  color-sodium-darker: '#7f6034'
+  color-sodium-light: '#ffe0b4'
+  color-sodium-lighter: '#fff7ec'
+  # Lithium Color /
+  color-lithium: '#ff766d'
+  color-lithium-dark: '#cc5e57'
+  color-lithium-darker: '#7f3a36'
+  color-lithium-light: '#ffbab6'
+  color-lithium-lighter: '#ffedec'
+
+props:
+  # Crimson Color /
+  - name: color-crimson
+    value: '{!color-crimson}'
+    meta:
+      friendlyName: Crimson
+  - name: color-crimson-dark
+    value: '{!color-crimson-dark}'
+    meta:
+      friendlyName: Crimson Dark
+  - name: color-crimson-darker
+    value: '{!color-crimson-darker}'
+    meta:
+      friendlyName: Crimson Darker
+  - name: color-crimson-light
+    value: '{!color-crimson-light}'
+    meta:
+      friendlyName: Crimson Light
+  - name: color-crimson-lighter
+    value: '{!color-crimson-lighter}'
+    meta:
+      friendlyName: Crimson Lighter
+  # Obsidian Color /
+  - name: color-obsidian
+    value: '{!color-obsidian}'
+    meta:
+      friendlyName: Obsidian
+  - name: color-obsidian-dark
+    value: '{!color-obsidian-dark}'
+    meta:
+      friendlyName: Obsidian Dark
+  - name: color-obsidian-darker
+    value: '{!color-obsidian-darker}'
+    meta:
+      friendlyName: Obsidian Darker
+  - name: color-obsidian-light
+    value: '{!color-obsidian-light}'
+    meta:
+      friendlyName: Obsidian Light
+  - name: color-obsidian-lighter
+    value: '{!color-obsidian-lighter}'
+    meta:
+      friendlyName: Obsidian Lighter
+  # Oxygen Color /
+  - name: color-oxygen
+    value: '{!color-oxygen}'
+    meta:
+      friendlyName: Oxygen
+  - name: color-oxygen-dark
+    value: '{!color-oxygen-dark}'
+    meta:
+      friendlyName: Oxygen Dark
+  - name: color-oxygen-darker
+    value: '{!color-oxygen-darker}'
+    meta:
+      friendlyName: Oxygen Darker
+  - name: color-oxygen-light
+    value: '{!color-oxygen-light}'
+    meta:
+      friendlyName: Oxygen Light
+  - name: color-oxygen-lighter
+    value: '{!color-oxygen-lighter}'
+    meta:
+      friendlyName: Oxygen Lighter
+  # Chromium Color /
+  - name: color-chromium
+    value: '{!color-chromium}'
+    meta:
+      friendlyName: Chromium
+  - name: color-chromium-dark
+    value: '{!color-chromium-dark}'
+    meta:
+      friendlyName: Chromium Dark
+  - name: color-chromium-darker
+    value: '{!color-chromium-darker}'
+    meta:
+      friendlyName: Chromium Darker
+  - name: color-chromium-light
+    value: '{!color-chromium-light}'
+    meta:
+      friendlyName: Chromium Light
+  - name: color-chromium-lighter
+    value: '{!color-chromium-lighter}'
+    meta:
+      friendlyName: Chromium Lighter
+  # Uranium Color /
+  - name: color-uranium
+    value: '{!color-uranium}'
+    meta:
+      friendlyName: Uranium
+  - name: color-uranium-dark
+    value: '{!color-uranium-dark}'
+    meta:
+      friendlyName: Uranium Dark
+  - name: color-uranium-darker
+    value: '{!color-uranium-darker}'
+    meta:
+      friendlyName: Uranium Darker
+  - name: color-uranium-light
+    value: '{!color-uranium-light}'
+    meta:
+      friendlyName: Uranium Light
+  - name: color-uranium-lighter
+    value: '{!color-uranium-lighter}'
+    meta:
+      friendlyName: Uranium Lighter
+  # Sodium Color /
+  - name: color-sodium
+    value: '{!color-sodium}'
+    meta:
+      friendlyName: Sodium
+  - name: color-sodium-dark
+    value: '{!color-sodium-dark}'
+    meta:
+      friendlyName: Sodium Dark
+  - name: color-sodium-darker
+    value: '{!color-sodium-darker}'
+    meta:
+      friendlyName: Sodium Darker
+  - name: color-sodium-light
+    value: '{!color-sodium-light}'
+    meta:
+      friendlyName: Sodium Light
+  - name: color-sodium-lighter
+    value: '{!color-sodium-lighter}'
+    meta:
+      friendlyName: Sodium Ligther
+  # Lithium Color /
+  - name: color-lithium
+    value: '{!color-lithium}'
+    meta:
+      friendlyName: Lithium
+  - name: color-lithium-dark
+    value: '{!color-lithium-dark}'
+    meta:
+      friendlyName: Lithium Dark
+  - name: color-lithium-darker
+    value: '{!color-lithium-darker}'
+    meta:
+      friendlyName: Lithium Darker
+  - name: color-lithium-light
+    value: '{!color-lithium-light}'
+    meta:
+      friendlyName: Lithium Light
+  - name: color-lithium-lighter
+    value: '{!color-lithium-lighter}'
+    meta:
+      friendlyName: Lithium Lighter
+
+global:
+  category: background-color
+  type: color
+

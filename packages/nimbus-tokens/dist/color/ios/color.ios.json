@@ -1,0 +1,214 @@
+{
+  "properties": [
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorCrimson",
+      "value": "rgb(116, 40, 49)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorCrimsonDark",
+      "value": "rgb(187, 64, 80)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorCrimsonDarker",
+      "value": "rgb(116, 40, 49)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorCrimsonLight",
+      "value": "rgb(244, 168, 177)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorCrimsonLighter",
+      "value": "rgb(252, 233, 235)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorObsidian",
+      "value": "rgb(128, 134, 143)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorObsidianDark",
+      "value": "rgb(82, 86, 95)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorObsidianDarker",
+      "value": "rgb(37, 40, 47)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorObsidianLight",
+      "value": "rgb(173, 180, 188)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorObsidianLighter",
+      "value": "rgb(201, 207, 214)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorOxygen",
+      "value": "rgb(241, 242, 245)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorOxygenDark",
+      "value": "rgb(232, 234, 239)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorOxygenDarker",
+      "value": "rgb(223, 227, 233)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorOxygenLight",
+      "value": "rgb(249, 250, 251)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorOxygenLighter",
+      "value": "rgb(255, 255, 255)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorChromium",
+      "value": "rgb(69, 137, 220)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorChromiumDark",
+      "value": "rgb(55, 109, 176)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorChromiumDarker",
+      "value": "rgb(34, 68, 109)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorChromiumLight",
+      "value": "rgb(162, 196, 237)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorChromiumLighter",
+      "value": "rgb(231, 240, 251)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorUranium",
+      "value": "rgb(70, 196, 144)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorUraniumDark",
+      "value": "rgb(56, 156, 115)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorUraniumDarker",
+      "value": "rgb(34, 97, 71)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorUraniumLight",
+      "value": "rgb(162, 225, 199)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorUraniumLighter",
+      "value": "rgb(231, 247, 241)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorSodium",
+      "value": "rgb(255, 194, 106)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorSodiumDark",
+      "value": "rgb(204, 155, 84)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorSodiumDarker",
+      "value": "rgb(127, 96, 52)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorSodiumLight",
+      "value": "rgb(255, 224, 180)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorSodiumLighter",
+      "value": "rgb(255, 247, 236)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorLithium",
+      "value": "rgb(255, 118, 109)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorLithiumDark",
+      "value": "rgb(204, 94, 87)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorLithiumDarker",
+      "value": "rgb(127, 58, 54)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorLithiumLight",
+      "value": "rgb(255, 186, 182)"
+    },
+    {
+      "category": "background-color",
+      "type": "color",
+      "name": "colorLithiumLighter",
+      "value": "rgb(255, 237, 236)"
+    }
+  ]
+}

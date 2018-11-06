@@ -1,0 +1,6 @@
+# List of all token files
+imports:
+  - ./color.yml
+global:
+  type: all
+  category: global
