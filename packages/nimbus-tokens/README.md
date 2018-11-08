@@ -1,2 +1,2 @@
-# galactica-token
-Galactica design token
+# nimbus-token
+Nimbus Design Tokens

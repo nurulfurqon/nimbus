@@ -1,6 +1,7 @@
 # List of all token files
 imports:
   - ./color.yml
+  - ./typography.yml
 global:
   type: all
   category: global

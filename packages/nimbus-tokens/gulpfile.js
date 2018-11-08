@@ -11,8 +11,8 @@ theo.registerFormat('ios.json', require('./format/ios.json.js'))
 theo.registerFormat('android.xml', require('./format/android.xml.js'))
 
 // Task for compile scss file
-gulp.task('color:scss', () =>
-  gulp.src('token/color.yml')
+gulp.task('token:scss', () =>
+  gulp.src('tokens/*.yml')
   .pipe(gulpTheo({
     transform: {
       type: 'web'
@@ -21,12 +21,12 @@ gulp.task('color:scss', () =>
       type: 'scss'
     }
   }))
-  .pipe(gulp.dest('dist/color/scss'))
+  .pipe(gulp.dest('dist/scss'))
 );
 
 // Task for compile js file
-gulp.task('color:js', () =>
-  gulp.src('token/color.yml')
+gulp.task('token:js', () =>
+  gulp.src('tokens/*.yml')
   .pipe(gulpTheo({
     transform: {
       type: 'web'
@@ -35,12 +35,12 @@ gulp.task('color:js', () =>
       type: 'web.js'
     }
   }))
-  .pipe(gulp.dest('dist/color/web'))
+  .pipe(gulp.dest('dist/web'))
 );
 
 // Task for compile ios json file
-gulp.task('color:ios', () =>
-  gulp.src('token/color.yml')
+gulp.task('token:ios', () =>
+  gulp.src('tokens/*.yml')
   .pipe(gulpTheo({
     transform: {
       type: 'web'
@@ -49,12 +49,12 @@ gulp.task('color:ios', () =>
       type: 'ios.json'
     }
   }))
-  .pipe(gulp.dest('dist/color/ios'))
+  .pipe(gulp.dest('dist/ios'))
 );
 
 // Task for compile android xml file
-gulp.task('color:android', () =>
-  gulp.src('token/color.yml')
+gulp.task('token:android', () =>
+  gulp.src('tokens/*.yml')
   .pipe(gulpTheo({
     transform: {
       type: 'android'
@@ -63,12 +63,12 @@ gulp.task('color:android', () =>
       type: 'android.xml'
     }
   }))
-  .pipe(gulp.dest('dist/color/android'))
+  .pipe(gulp.dest('dist/android'))
 );
 
 // Task for compile all file
 gulp.task('all', () =>
-  gulp.src('token/index.yml')
+  gulp.src('tokens/index.yml')
   .pipe(gulpTheo({
     transform: {
       type: 'web'
@@ -79,6 +79,7 @@ gulp.task('all', () =>
   }))
   .pipe(gulp.dest('dist'))
 )
+
 
 // Clean directory dist
 gulp.task('clean:dist', () => {
@@ -91,4 +92,4 @@ gulp.task('cache:clear', (callback) => {
 })
 
 // Task For Build all task
-gulp.task('build', gulp.series('clean:dist', 'color:scss', 'color:js', 'color:ios', 'color:android', 'all'))
+gulp.task('build', gulp.series('clean:dist', 'token:scss', 'token:js', 'token:ios', 'token:android', 'all'))

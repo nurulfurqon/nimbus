@@ -34,4 +34,6 @@ module.exports = {
   colorLithiumDarker: "rgb(127, 58, 54)",
   colorLithiumLight: "rgb(255, 186, 182)",
   colorLithiumLighter: "rgb(255, 237, 236)",
+  fontStackBase: "-apple-system, 'BlinkMacSystemFont', 'San Francisco', 'Roboto', 'Segoe UI', 'Helvetica Neue', sans-serif",
+  fontStackMonospace: "Monaco, Consolas, 'Lucida Console', monospace",
 };

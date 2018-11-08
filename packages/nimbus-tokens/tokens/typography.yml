@@ -1,0 +1,18 @@
+# This a list typography token for used
+# Version: 0.0.1
+# Last update: 08-11-2018
+
+props:
+  # Font stacks
+  - name: font-stack-base
+    value: -apple-system, 'BlinkMacSystemFont', 'San Francisco', 'Roboto', 'Segoe UI', 'Helvetica Neue', sans-serif
+    type: string
+    category: font-family
+  - name: font-stack-monospace
+    value: "Monaco, Consolas, 'Lucida Console', monospace"
+    type: string
+    category: font-family
+
+global:
+  type: number
+  category: font-size
